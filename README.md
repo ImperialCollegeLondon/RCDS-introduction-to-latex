@@ -8,10 +8,10 @@ This course will take place in an ICT computer room and so laptops are not requi
 
 You should set up an Overleaf account by going to [overleaf.com](overleaf.com) and clicking register. If you use your Imperial email address you will get the benefits fo Imperial's professional licence.
 
-Course materials are available [here](https://github.com/coolernato/Introduction-to-LaTeX)
+Course materials are available [here](https://github.com/coolernato/Introduction-to-LaTeX). There's no need to review these before the course.
 
 ### Webinar Instructions
 
 You should set up an Overleaf account by going to [overleaf.com](overleaf.com) and clicking register. If you use your Imperial email address you will get the benefits fo Imperial's professional licence.
 
-Course materials are available [here](https://github.com/coolernato/Introduction-to-LaTeX)
+Course materials are available [here](https://github.com/coolernato/Introduction-to-LaTeX). There's no need to review these before the course.
