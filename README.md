@@ -12,7 +12,7 @@ If you don't use one of these, choose a reference manager add a couple fo refere
 
 You should set up an Overleaf account by going to [overleaf.com](overleaf.com) and clicking register. If you use your Imperial email address you will get the benefits fo Imperial's professional licence.
 
-Course materials are available [here](https://github.com/coolernato/Introduction-to-LaTeX). There's no need to review these before the course.
+Course materials are available [here](https://github.com/coolernato/Introduction-to-LaTeX/archive/refs/heads/master.zip). There's no need to review these before the course.
 
 ### Face to Face Course
 
@@ -20,10 +20,10 @@ This course will take place in an ICT computer room and so laptops are not requi
 
 You should set up an Overleaf account by going to [overleaf.com](overleaf.com) and clicking register. If you use your Imperial email address you will get the benefits fo Imperial's professional licence.
 
-Course materials are available [here](https://github.com/coolernato/Introduction-to-LaTeX). There's no need to review these before the course.
+Course materials are available [here](https://github.com/coolernato/Introduction-to-LaTeX/archive/refs/heads/master.zip). There's no need to review these before the course.
 
 ### Self-Study Instructions
 
-You can downlaod the course materials [here](https://github.com/coolernato/Introduction-to-LaTeX). Open the file ```Intro to Latex Slides.pptx```. When reading through the slides, refer to the notes section of the slides, which contains further explanation of the content of the slides. The notes also often contain links to Overleaf projects which contain full projects centred on the feature being demonstrated in the slides.
+You can downlaod the course materials [here](https://github.com/coolernato/Introduction-to-LaTeX/archive/refs/heads/master.zip). Open the file ```Intro to Latex Slides.pptx```. When reading through the slides, refer to the notes section of the slides, which contains further explanation of the content of the slides. The notes also often contain links to Overleaf projects which contain full projects centred on the feature being demonstrated in the slides.
 
 When the slide says "Problem Sheet" in the lower right corner, this indicates there is an exercise available in the problem sheet. Note that, to use the links in the pdf, you will need to download and open the pdf (as opposed to viewing it in the github viewer). It is recommended to complete the exercises from the problem sheet, with the exception of exercis 10, in an [Overleaf](overleaf.com) project. This will see you build a document with a variety of different features which you can than copy into other documents when you need them.
