@@ -6,7 +6,7 @@
 
 If you use a reference manager (such as Mendeley, Refworks, Zotero, etc), find out how to export its contents as a .bib file. You should be able to find instructions by googling, for instance, "refworks export bib".
 
-If you don't use one of these, choose a reference manager add a couple of references and find out how to export its contents as a .bib file. The library provides [guidance](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/library/public/Reference-management-software-comparison--2019.pdf) on the different reference managers available to help you choose.
+If you don't use one of these, choose a reference manager, add a couple of references and find out how to export its contents as a .bib file. The library provides [guidance](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/library/public/Reference-management-software-comparison--2019.pdf) on the different reference managers available to help you choose.
 
 ### Webinar Instructions
 
