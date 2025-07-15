@@ -9,7 +9,7 @@ Chris Cooling
 * Add at least one comment
 * Compile your document to PDF
 
-## Sections
+## Chapters and Sections
 
 * Add a new chapter to your document (you will need to change the documentclass to ``report'' or ``book'')
 * Add a new section to your document
@@ -58,7 +58,7 @@ Chris Cooling
 * Add labels to at least one section and one equation
 * Reference the section and equation you just labelled in some text
 
-## Adding Figures
+## Figures
 
 * Add a figure to your document
 * Put the figure in the middle of the content you've produced so far
@@ -87,7 +87,7 @@ If you receive an error, check the following common issues:
 * Reference the figure and a subfigure in some text
 
 
-## Adding Tables
+## Tables
 
 * Add a table to your document
 * Change the text alignment within each column
