@@ -1,7 +1,7 @@
 # Introduction to LaTeX Problem Sheet
 Chris Cooling
 
-## Creating a document
+## Creating a Document
 * Create a new Overleaf project called ``Introduction to LaTeX'' - you will complete all exercises before the final exercise in this project
 * Delete any sample text already in the project's .tex file
 * Create a new article document
