@@ -72,10 +72,10 @@ Chris Cooling
 If you receive an error, check the following common issues:
 
 
-* You should be using the `graphicx' package
+* You should be using the `graphicx` package
 * You should have uploaded your image file to Overleaf
 * Your file name shouldn't contain spaces
-* Your file should be a supported format (no `svg`, `tiff' files)
+* Your file should be a supported format (no `svg`, `tiff` files)
 
 ## Subfigures and Image File Organisation
 * Find some pictures you like online (or use some from your research)
