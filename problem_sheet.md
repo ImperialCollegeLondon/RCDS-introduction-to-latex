@@ -158,7 +158,6 @@ If you receive an error, check the following common issues:
 
 ## Errors
 
-* Make sure you've downloaded this file - the links won't work in the GitHub preview
 * Open [this LaTeX project](https://www.overleaf.com/read/gnzphcnqgfvf)
 * Make a copy of the project (click the `Menu` button, then `Copy Project``)
 * Correct the errors and compile the pdf
