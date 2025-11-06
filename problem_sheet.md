@@ -158,7 +158,7 @@ If you receive an error, check the following common issues:
 
 ## Errors
 
-* Open [this LaTeX project](https://www.overleaf.com/read/gnzphcnqgfvf)
+* Open [this Overleaf LaTeX project](https://www.overleaf.com/read/gnzphcnqgfvf)
 * Make a copy of the project (click the `Menu` button, then `Copy Project``)
 * Correct the errors and compile the pdf
 * If you get stuck or want to compare your answer, the corrected version can be found [here](https://www.overleaf.com/read/zsmyvxvdcvfr)
