@@ -72,10 +72,10 @@ Chris Cooling
 If you receive an error, check the following common issues:
 
 
-* You should be using the `graphicx' package
+* You should be using the `graphicx` package
 * You should have uploaded your image file to Overleaf
 * Your file name shouldn't contain spaces
-* Your file should be a supported format (no `svg`, `tiff' files)
+* Your file should be a supported format (no `svg`, `tiff` files)
 
 ## Subfigures and Image File Organisation
 * Find some pictures you like online (or use some from your research)
@@ -104,13 +104,12 @@ If you receive an error, check the following common issues:
 ## Chemical Formulae
 
 * Add a sentence containing the chemical formula of a compound of your choice
-* Add an equation containing the chemical reaction for burning methane: 
-  $ \text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O} $
+* Add an equation containing the chemical reaction for burning methane: CH₄ + 2O₂ → CO₂ + 2H₂O  
 * Extension: Add a skeletal structure diagram of an organic compound of your choice.
 
 ## Splitting Your Document
 
-* Add two new .tex files each containing a `chapter` command a short sentence. 
+* Add two new .tex files each containing a `chapter` command and a short sentence. 
 * Use the `include` command to include each new file in your main `.tex` file
 * Add the `includeonly` command to your preamble so only one of the chapters is included in the compiled document
 
@@ -159,8 +158,7 @@ If you receive an error, check the following common issues:
 
 ## Errors
 
-* Make sure you've downloaded this file - the links won't work in the GitHub preview
-* Open [this LaTeX project](https://www.overleaf.com/read/gnzphcnqgfvf)
+* Open [this Overleaf LaTeX project](https://www.overleaf.com/read/gnzphcnqgfvf)
 * Make a copy of the project (click the `Menu` button, then `Copy Project``)
 * Correct the errors and compile the pdf
 * If you get stuck or want to compare your answer, the corrected version can be found [here](https://www.overleaf.com/read/zsmyvxvdcvfr)
