@@ -109,7 +109,7 @@ If you receive an error, check the following common issues:
 
 ## Splitting Your Document
 
-* Add two new .tex files each containing a `chapter` command a short sentence. 
+* Add two new .tex files each containing a `chapter` command and a short sentence. 
 * Use the `include` command to include each new file in your main `.tex` file
 * Add the `includeonly` command to your preamble so only one of the chapters is included in the compiled document
 
