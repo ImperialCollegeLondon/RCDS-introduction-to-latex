@@ -104,8 +104,7 @@ If you receive an error, check the following common issues:
 ## Chemical Formulae
 
 * Add a sentence containing the chemical formula of a compound of your choice
-* Add an equation containing the chemical reaction for burning methane: 
-  $ \text{CH}_4 + 2\text{O}_2 \rightarrow \text{CO}_2 + 2\text{H}_2\text{O} $
+* Add an equation containing the chemical reaction for burning methane: CH₄ + 2O₂ → CO₂ + 2H₂O  
 * Extension: Add a skeletal structure diagram of an organic compound of your choice.
 
 ## Splitting Your Document
