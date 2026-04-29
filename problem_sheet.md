@@ -4,14 +4,15 @@ Chris Cooling
 ## Creating a Document
 * Create a new Overleaf project called ``Introduction to LaTeX'' - you will complete all exercises before the final exercise in this project
 * Delete any sample text already in the project's .tex file
-* Create a new article document
+* Set the documentclass to "article"
+* Insert the `\begin{document}` and `\end{document}` commands
 * Add a little text to your document
 * Add at least one comment
 * Compile your document to PDF
 
 ## Chapters and Sections
 
-* Add a new chapter to your document (you will need to change the documentclass to ``report'' or ``book'')
+* Add a new chapter to your document (you will need to change the documentclass to `report` or `book`)
 * Add a new section to your document
 * Add a new subsection to your document
 
@@ -31,7 +32,8 @@ Chris Cooling
 
 ## Font Typefaces
 
-* Change the default font of your document to ```Helvetica```
+* Change the default font of your document to `Helvetica`
+* Extension: Change the font of a single sentence of your document
 
 ## Lists
 
@@ -45,7 +47,7 @@ Chris Cooling
 * Add an equation to your document
 * Embed some mathmode content within some text
 * Start both of these pieces of mathmode content with simple content, then make them more complex
-* Try to include some maths relevant to your field - research how to include them online if necessary.
+* Try to include some maths relevant to your field - research online how to include them if necessary
 
 ## Mathmode II
 
@@ -63,14 +65,11 @@ Chris Cooling
 * Add a figure to your document
 * Put the figure in the middle of the content you've produced so far
 * Change the size of the figure
-* Change the vertical position of the figure
 * Centre the image horizontally on the page
 * Add a caption to the figure
 * Extension: Experiment with different vertical placement options to see how it affects the layout of your document
 
-
 If you receive an error, check the following common issues:
-
 
 * You should be using the `graphicx` package
 * You should have uploaded your image file to Overleaf
@@ -86,14 +85,12 @@ If you receive an error, check the following common issues:
 * Give the figure a label, and a caption
 * Reference the figure and a subfigure in some text
 
-
 ## Tables
 
 * Add a table to your document
 * Change the text alignment within each column
 * Add some horizontal and vertical lines
-* Add a caption to the table
-
+* Add a caption and a label to the table
 
 ## Table of Contents, List of Figures and List of Tables
 * Add a table of contents to your document
@@ -114,13 +111,11 @@ If you receive an error, check the following common issues:
 
 ## Bibliographies I
 
-* Create a `.bib file` (you can export from a reference manager or create one from scratch)
+* Create a `.bib` file (you can export from a reference manager or create one from scratch)
 * Include the bibliography in your .tex file
 * Cite some of the bibliography entries in your document
 
-
 If you receive an error, check the following common issues:
-
 
 * You should be using the `natbib` package
 * You should have uploaded your `.bib` file to Overleaf
